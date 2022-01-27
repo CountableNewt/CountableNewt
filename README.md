@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam Clemente, @CountableNewt
-- 👀 I’m interested in Administration of HPC Clusters as well as AI/ML Systems
+- 👀 I’m interested in Project/Program/Portfolio Management, HPC Clusters, and AI/ML
 - 🌱 I’m currently learning HTML, CSS, PHP, MySQL
 - 💞 I’m looking to collaborate on anything I can get my hands on
 - 📫 How to reach me:<p>Email(preferred): samuel@theclementes.com<br>Phone: (856)-689-7187</p>
